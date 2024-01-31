@@ -38,3 +38,4 @@ fichero.close()
 
 for coche in listaCoches:
     print(coche.estado())
+
