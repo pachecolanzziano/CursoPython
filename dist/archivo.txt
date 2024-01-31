@@ -1,0 +1,5 @@
+Hola mundo 
+esta linea ha sido incluida dede el exterior 
+ Estoy aprendiendo Python
+ siempre es una buena ocasión para aprender Python
+ siempre es una buena ocasión para aprender Python
